@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1636578185 source:d:\iut academic\3rd semester\cse 4302\project\samp_final\administrator.cpp
+	"Administrator.h"
+	"Teacher.h"
+	"Student.h"
+	"Person.h"
+	<bits/stdc++.h>
+
+1636021595 d:\iut academic\3rd semester\cse 4302\project\samp_final\administrator.h
+	"Person.h"
+	"Teacher.h"
+	"Student.h"
+	<bits/stdc++.h>
+
+1636021556 d:\iut academic\3rd semester\cse 4302\project\samp_final\student.h
+	"Person.h"
+	<bits/stdc++.h>
+
+1636022316 d:\iut academic\3rd semester\cse 4302\project\samp_final\person.h
+	<string>
+
+1636021307 d:\iut academic\3rd semester\cse 4302\project\samp_final\teacher.h
+	"Person.h"
+	<bits/stdc++.h>
+
+1636575064 source:d:\iut academic\3rd semester\cse 4302\project\samp_final\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<ctime>
+	<windows.h>
+	<mmsystem.h>
+	"Student.h"
+	"Teacher.h"
+	"Administrator.h"
+
+1636040365 source:d:\iut academic\3rd semester\cse 4302\project\samp_final\person.cpp
+	<ctime>
+	"Person.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1636044243 source:d:\iut academic\3rd semester\cse 4302\project\samp_final\student.cpp
+	<bits/stdc++.h>
+	"Student.h"
+	<ctime>
+
+1636021300 source:d:\iut academic\3rd semester\cse 4302\project\samp_final\teacher.cpp
+	"Teacher.h"
+	<bits/stdc++.h>
+	"Person.h"
+	"Student.h"
+
+1636578186 source:e:\study\2-1\cse_4302_oop_lab\projekt\samp_final\administrator.cpp
+	"Administrator.h"
+	"Teacher.h"
+	"Student.h"
+	"Person.h"
+	<bits/stdc++.h>
+
+1636021596 e:\study\2-1\cse_4302_oop_lab\projekt\samp_final\administrator.h
+	"Person.h"
+	"Teacher.h"
+	"Student.h"
+	<bits/stdc++.h>
+
+1636022318 e:\study\2-1\cse_4302_oop_lab\projekt\samp_final\person.h
+	<string>
+
+1636021308 e:\study\2-1\cse_4302_oop_lab\projekt\samp_final\teacher.h
+	"Person.h"
+	<bits/stdc++.h>
+
+1636021558 e:\study\2-1\cse_4302_oop_lab\projekt\samp_final\student.h
+	"Person.h"
+	<bits/stdc++.h>
+
+1636575066 source:e:\study\2-1\cse_4302_oop_lab\projekt\samp_final\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<ctime>
+	<windows.h>
+	<mmsystem.h>
+	"Student.h"
+	"Teacher.h"
+	"Administrator.h"
+
+1636040366 source:e:\study\2-1\cse_4302_oop_lab\projekt\samp_final\person.cpp
+	<ctime>
+	"Person.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1636044244 source:e:\study\2-1\cse_4302_oop_lab\projekt\samp_final\student.cpp
+	<bits/stdc++.h>
+	"Student.h"
+	<ctime>
+
+1636021302 source:e:\study\2-1\cse_4302_oop_lab\projekt\samp_final\teacher.cpp
+	"Teacher.h"
+	<bits/stdc++.h>
+	"Person.h"
+	"Student.h"
+
